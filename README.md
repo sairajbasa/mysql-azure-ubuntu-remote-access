@@ -1,4 +1,3 @@
-# mysql-azure-ubuntu-remote-access
 # MySQL Installation and Remote Access on Azure Ubuntu VM
 
 This guide explains how to install **MySQL Server** on an **Ubuntu VM in Microsoft Azure**, configure it to accept remote connections, create a remote MySQL user, and allow MySQL traffic securely through the Ubuntu firewall and Azure Network Security Group (NSG).
